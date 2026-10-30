@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SalatNabi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/emerald</item>
+        <item name="colorOnPrimary">@color/cream</item>
+        <item name="android:statusBarColor">@color/emerald_dark</item>
+    </style>
+</resources>

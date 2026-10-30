@@ -1,0 +1,9 @@
+<resources>
+    <color name="emerald_dark">#061E16</color>
+    <color name="emerald">#0A3D2E</color>
+    <color name="emerald_light">#1B5E4B</color>
+    <color name="gold">#D4AF37</color>
+    <color name="gold_light">#F9E498</color>
+    <color name="cream">#FFF8E7</color>
+    <color name="white_80">#CCFFFFFF</color>
+</resources>
